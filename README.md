@@ -44,11 +44,6 @@ Consolidar la formación teórica con **experiencia práctica real**: diseñar, 
 * Cada proyecto contiene instrucciones para desplegar en un entorno controlado (README por proyecto).
 * Busco feedback técnico, revisiones de arquitectura y sugerencias para mejorar la seguridad y la resiliencia.
 
-# Contacto
-
-* **[davidmarinrivero@gmail.com](mailto:davidmarinrivero@gmail.com)**
-* **[LinkedIn](https://www.linkedin.com/in/davidmarinrivero)**
-
 ---
 
 #### Gracias por pasarte por mi perfil. Si eres reclutador o profesional interesado en, revisar proyectos concretos o conocer más en detalle mis despliegues y diseños, por favor contacta por correo o LinkedIn. Estoy abierto a oportunidades que me permitan crecer profesionalmente y aportar valor mediante soluciones seguras, automatizadas y escalables.
